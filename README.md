@@ -1,4 +1,4 @@
-# EcoStopBrakeStarter For ATTiny13A
+# EcoStopBrakeStarter
 
 POWER Enterprise(POWER LLC.)のEco-Stopに  
 - ブレーキペダル操作での再始動
