@@ -7,6 +7,8 @@ POWER Enterprise(POWER LLC.)のEco-Stopに
 を追加します。  
 本回路およびプログラムを使用する場合、Eco-Stopはオートモードに設定してください。  
 動作確認はソニカでのみ行っているため、他の車種ではプログラムの変更(START_CHECK_DELAY_TIME,START_THRESHOLD_TIME)が必要となる可能性があります。  
+製作にはAVRライターが必要です。  
+
 [Download latest release](../../releases)
 
 # 回路図
