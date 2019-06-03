@@ -1,6 +1,6 @@
 # EcoStopBrakeStarter
 
-POWER Enterprise(POWER LLC.)のEco-Stopに  
+POWER Enterprise(POWER LLC.)のEco-Stopと車両のN信号配線間に割り込ませる事で  
 - ブレーキペダル操作での再始動
 - アイドリングストップ有効・無効切り替え
 
