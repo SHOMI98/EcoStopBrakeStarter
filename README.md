@@ -16,8 +16,9 @@ POWER Enterprise(POWER LLC.)のEco-Stopに
 - リレーはコイル消費電流が100mA以下のものを使用してください。
 - ブレーキには数A(ソニカで約5A)流れるため、使用可能電力に余裕を持ったリレーを使用してください。
 - キーをIGNからACCに切り替えた後2～4秒程度でリレーがOFFとなるように可変抵抗を調整してください。
-
+- EcoStop用N信号とPB4の間の抵抗は配線が車体に接触してしまった際にATTiy13Aの出力端子破損を防ぐためのものなので、接続配線のEco-Stop側ではなくATTiy13A側にとりつけてください。  
 ![EcoStopBrakeStarter.png](/CircuitDiagrams/EcoStopBrakeStarter.png "EcoStopBrakeStarter")
+
 以下の切替回路を追加することでスターターカットリレーがインヒビタースイッチの下流に取り付けられている車種(i-Smart車種別配線図でリレーAと記載)と共用に出来ますが、動作未確認です。  
 常時電源とつながるヒューズ部分は上記回路のものと共用できます。
 ![StarterCutRelay.png](/CircuitDiagrams/StarterCutRelay.png "StarterCutRelay")
