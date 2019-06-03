@@ -11,6 +11,16 @@ POWER Enterprise(POWER LLC.)のEco-Stopに
 
 [Download latest release](../../releases)
 
+# 再始動操作動画
+ブレーキペダル操作での再始動  
+[![ブレーキペダル操作での再始動](https://img.youtube.com/vi/8QJhcB1Uzlw/0.jpg)](https://www.youtube.com/watch?v=8QJhcB1Uzlw)
+
+アイドリングストップ有効・無効切り替えスイッチ操作での再始動  
+[![切替スイッチ操作での再始動](https://img.youtube.com/vi/qSqv4JRvUJY/0.jpg)](https://www.youtube.com/watch?v=qSqv4JRvUJY)
+
+シフト操作での再始動  
+[![シフト操作での再始動](https://img.youtube.com/vi/vhFaXYEGKy0/0.jpg)](https://www.youtube.com/watch?v=vhFaXYEGKy0)
+
 # 回路図
 スターターカットリレーがインヒビタースイッチの上流に取り付けられている車種用(i-Smartの車種別配線図でリレーBと記載)です。
 - リレーはコイル消費電流が100mA以下のものを使用してください。
