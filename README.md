@@ -8,6 +8,7 @@ POWER Enterprise(POWER LLC.)のEco-Stopと車両のN信号配線間に割り込�
 本回路およびプログラムを使用する場合、Eco-Stopはオートモードに設定してください。  
 動作確認はソニカでのみ行っているため、他の車種ではプログラムの変更(START_CHECK_DELAY_TIME,START_THRESHOLD_TIME)が必要となる可能性があります。  
 製作にはAVRライターが必要です。  
+手動でD→Nと操作して再始動後すぐに再度D→Nと操作したときと同様、ブレーキペダルでの再始動後の数秒間はEco-Stopがスターターを回そうとしているため、NもしくはNを経由するバックに入れたい場合は再始動後少し待ってからシフト操作してください。  
 
 [Download latest release](../../releases)
 
